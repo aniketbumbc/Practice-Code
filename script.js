@@ -45,3 +45,28 @@ if(ageCraig === 53){
 }
 
  
+var age = 25  ;
+if(age > 26 || age < 30){
+    console.log('Yahoooooo');
+}else{
+    console.log('Google'); 
+}
+
+var job = prompt ('Please Enter Job');
+
+switch(job){
+    case 'teacher':
+    alert('Yesss');
+    break;
+    case 'Markter':
+    alert('Noo Marker');
+    break;
+    case 'Young teacher':
+    alert('Young Yesss');
+    break;
+    case 'Marktered':
+    alert('Markered');
+break ;
+default:
+alert("No Match choice");
+}
