@@ -9,5 +9,5 @@ var scoreB  = (5* heigthB);
 if (scoreA > scoreB){
     console.log("Yess Score A win")
 }else{
-    console.log("Yeee Score B is Win");
+    console.log("Yeee Score B is Win");  
 }
