@@ -42,7 +42,7 @@ var john = Object.create (personProto);
 var jop = Object.create(personProto ,{
 
     name:{value:'bunny'},
-    year:{value:1955}
+    year:{value:1955} 
 });
 
 john.name ='aniket';
